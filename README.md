@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Lecturers
 - Jadi
-- SiJ
+- Sara
